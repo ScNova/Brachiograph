@@ -1,4 +1,4 @@
-from traducteur_servo import traduit
+from Traducteur_servo import traduit
 from machine import PWM, Pin
 from time import sleep
 
